@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Image Optimization by WalidDeveloper.com
-Plugin URI: https://example.com/
+Plugin URI: https://github.com/Walid-Developer/Image-Optimize-by-WalidDeveloper.com
 Description: This plugin optimizes images for faster loading times by WalidDeveloper.com
 Version: 1.0
 Author: WalidDeveloper.com
