@@ -14,6 +14,16 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 This plugin optimizes images for faster loading times this plugin by WalidDeveloper.com
 best image optimization free WordPress plugin 
 
+== Screenshots  ==
+
+1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Screenshots are stored in the /assets directory Screenshots 1.png
+
+2. 1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Screenshots are stored in the /assets directory Screenshots 2.png
+
+== Frequently Asked Questions  ==
+= is that free?  =
+Yes
+
 A few notes about the sections above:
 
 == Changelog ==
