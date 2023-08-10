@@ -8,8 +8,6 @@ Author: WalidDeveloper.com
 Author URI: WalidDeveloper.com
 License: GPL2
 */
-
-
 function optimize_images($path) {
     if (extension_loaded('imagick')) {
         $imagick = new \Imagick();
